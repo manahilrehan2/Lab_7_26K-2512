@@ -1,1 +1,4 @@
-# Lab_7_26K-2512
+# BDS 1-A
+# Manahil Rehan
+# 26K-2512
+# PF Lab 7 Tasks
